@@ -1,0 +1,68 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+
+
+nav{
+  height: 6.1rem !important;
+  line-height: 90px !important;
+}
+
+.sidenav-trigger i{
+  height: 6.1rem !important;
+  line-height: 90px !important;
+}
+
+.nav-wrapper i{
+  height: 6.1rem !important;
+  line-height: 90px !important;
+}
+
+.menuItem{ 
+font-size: 15px;
+font-family: 'Roboto', sans-serif;
+}
+
+.menuBtn{
+  border: 1px solid red;
+  padding: 8px 20px 10px 20px;
+  border-radius: 95px;
+  font-family: 'Roboto';
+  color: red;
+}
+
+.banner-haeding{
+  font-size: 6rem;
+  font-weight: 600;
+  color: #6ab86a;
+  margin-bottom:0px;
+}
+
+.banner-text{
+  font-size:1.3rem;
+}
+
+.noMargin{
+  margin: 0px auto;
+}
+
+.themeBg{
+  background-color: #6ab86a;
+}
+
+.s-card{
+  border: 1px solid #dcdbdb;
+  border-radius: 5px;
+}
